@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jay from India. 
+I'm Jay.  
 
 Inquire, Analyze, Visualize, Formalize and Communicate describes my skills. Yes, I am a Solution Architect, having more than 16 years of experience in serving IT industry. I have an extensive experience in Solution Design, Business Development, and Feasibility study. My dream was to attain the accountable, hard-hitting and rewarding position, which imparts the possibility for cross-functional learning and professional development. It came true 11 years back when I became a co-founder of byPeopleTechnology in 2011.
 
