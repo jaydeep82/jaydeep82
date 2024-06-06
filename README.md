@@ -2,7 +2,7 @@
 
 I'm Jay.  
 
-Inquire, Analyze, Visualize, Formalize and Communicate describes my skills. Yes, I am a Solution Architect, having more than 16 years of experience in serving IT industry. I have an extensive experience in Solution Design, Business Development, and Feasibility study. My dream was to attain the accountable, hard-hitting and rewarding position, which imparts the possibility for cross-functional learning and professional development. It came true 11 years back when I became a co-founder of byPeopleTechnology in 2011.
+Inquire, Analyze, Visualize, Formalize and Communicate describes my skills. Yes, I am a Solution Architect, having more than 18 years of experience in serving IT industry. I have an extensive experience in Solution Design, Business Development, and Feasibility study. My dream was to attain the accountable, hard-hitting and rewarding position, which imparts the possibility for cross-functional learning and professional development. It came true 11 years back when I became a co-founder of byPeopleTechnology in 2011.
 
 I am very capable with an ability to understand the client/user perspective. I identify the solutions and then deal with a client’s needs by translating them into appropriate technical solutions. I always motivate and guide colleagues and offer robust consultancy service to clients.
 Moreover, I have hands-on experience in software development for web applications, enterprise application, and mobile applications. I have multi-skilled experience with exceptional ability to tackle challenging projects and meet stringent deadlines.
