@@ -22,10 +22,6 @@ I'm deeply invested in the **agentic AI ecosystem** — exploring multi-agent or
 
 I believe the next generation of enterprise architecture is **AI-native by design**, and I'm building at that frontier.
 
-I am very capable with an ability to understand the client/user perspective. I identify the solutions and then deal with a client’s needs by translating them into appropriate technical solutions. I always motivate and guide colleagues and offer robust consultancy service to clients.
-
-Moreover, I have hands-on experience in software development for web applications, enterprise application, and mobile applications. I have multi-skilled experience with exceptional ability to tackle challenging projects and meet stringent deadlines.
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 	<a>
