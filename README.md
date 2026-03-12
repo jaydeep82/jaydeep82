@@ -1,10 +1,29 @@
 ### Hi there 👋
 
-I'm Jay.  
+I'm Jaydeep — a **Solution Architect** and **Agentic AI Engineer** with over two decades of experience designing intelligent systems that solve real business problems.
 
-Inquire, Analyze, Visualize, Formalize and Communicate describes my skills. Yes, I am a Solution Architect, having more than 20 years of experience in serving IT industry. I have an extensive experience in Solution Design, Business Development, and Feasibility study. My dream was to attain the accountable, hard-hitting and rewarding position, which imparts the possibility for cross-functional learning and professional development. It came true 11 years back when I became a co-founder of byPeopleTechnology in 2011.
+My approach is built on five pillars: **Inquire. Analyze. Visualize. Formalize. Communicate.** — a methodology I've refined across 20+ years of architecting enterprise solutions, leading business development initiatives, and conducting technical feasibility studies across diverse industries.
+
+In 2011, I co-founded **byPeopleTechnology**, driven by a vision to build a practice where deep technical expertise meets strategic consulting. That vision continues to evolve — today, my focus has expanded into **Agentic AI**: designing autonomous multi-agent systems, orchestrating LLM-powered workflows, and building AI agents that reason, plan, and execute with minimal human intervention.
+
+### What I Do
+
+- **Architect Agentic AI Systems** — I design multi-agent architectures using frameworks like LangChain, CrewAI, and LangGraph, building autonomous pipelines that combine tool-use, retrieval-augmented generation (RAG), and chain-of-thought reasoning to deliver intelligent decision-making at scale.
+
+- **Bridge Business and Technology** — I translate complex client requirements into scalable, production-grade technical solutions. Whether it's decomposing a monolith into event-driven microservices or designing an AI-native platform from scratch, I operate at the intersection of strategy and engineering.
+
+- **Lead with Hands-On Expertise** — I'm not just a whiteboard architect. I write code, build prototypes, and ship systems across the full stack — from cloud infrastructure (AWS, Azure, Kubernetes) and backend services (Java, Spring Boot, Node.js, Python) to frontend applications (React, Flutter) and real-time data pipelines (Kafka, gRPC, WebSocket).
+
+- **Consult and Mentor** — I provide architectural advisory and technical consultancy to clients while mentoring engineering teams to elevate their design thinking and delivery standards.
+
+### Current Focus
+
+I'm deeply invested in the **agentic AI ecosystem** — exploring multi-agent orchestration patterns, MCP (Model Context Protocol) server implementations, autonomous code generation agents, and AI-powered decision engines. My goal is to architect systems where AI agents don't just assist — they autonomously reason, collaborate, and deliver outcomes.
+
+I believe the next generation of enterprise architecture is **AI-native by design**, and I'm building at that frontier.
 
 I am very capable with an ability to understand the client/user perspective. I identify the solutions and then deal with a client’s needs by translating them into appropriate technical solutions. I always motivate and guide colleagues and offer robust consultancy service to clients.
+
 Moreover, I have hands-on experience in software development for web applications, enterprise application, and mobile applications. I have multi-skilled experience with exceptional ability to tackle challenging projects and meet stringent deadlines.
 
 <h3 align="left">Languages and Tools:</h3>
