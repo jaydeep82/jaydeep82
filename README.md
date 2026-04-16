@@ -4,7 +4,7 @@ I'm Jaydeep — a **Solution Architect** and **Agentic AI Engineer** with over t
 
 My approach is built on five pillars: **Inquire. Analyze. Visualize. Formalize. Communicate.** — a methodology I've refined across 20+ years of architecting enterprise solutions, leading business development initiatives, and conducting technical feasibility studies across diverse industries.
 
-In 2011, I co-founded **byPeopleTechnology**, driven by a vision to build a practice where deep technical expertise meets strategic consulting. That vision continues to evolve — today, my focus has expanded into **Agentic AI**: designing autonomous multi-agent systems, orchestrating LLM-powered workflows, and building AI agents that reason, plan, and execute with minimal human intervention.
+In 2011, I co-founded **byPeople Technologies**, driven by a vision to build a practice where deep technical expertise meets strategic consulting. That vision continues to evolve — today, my focus has expanded into **Agentic AI**: designing autonomous multi-agent systems, orchestrating LLM-powered workflows, and building AI agents that reason, plan, and execute with minimal human intervention.
 
 ### What I Do
 
